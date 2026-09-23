@@ -51,7 +51,7 @@ LangGraphAgent/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-How It Works
+# How It Works
 
 The agent uses a LangGraph workflow to process user messages.
 
