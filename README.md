@@ -27,7 +27,6 @@ A conversational AI agent built with LangGraph and Groq that can reason about us
 
 ## Project Structure
 
-```text
 LangGraphAgent/
 │
 ├── agent/
@@ -51,6 +50,7 @@ LangGraphAgent/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
 # How It Works
 
 The agent uses a LangGraph workflow to process user messages.
